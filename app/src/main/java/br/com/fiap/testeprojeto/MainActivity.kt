@@ -96,6 +96,7 @@ fun MeuComponente(modifier: Modifier = Modifier) {
                             idade.value--
                         } else{
                             idade.value = 0
+
                         }
 
                     },
